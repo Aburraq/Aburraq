@@ -1,10 +1,14 @@
 Hi there, I'm Burak 👋
+
 🎓 Law grad turned backend developer exploring the realms of technology.
 
 👨‍💻 Currently diving deep into backend development, with experience in:
 🐘 PostgreSQL
 🛠️ Hibernate
-🌱 Spring MVC Boot Security
+🌱 Spring
+📦 Maven
+🐙 GitHub
+🐳 Docker
 🕹️ Game development
 🔭 I'm passionate about crafting clean code and solving complex problems.
 

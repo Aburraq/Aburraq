@@ -1,15 +1,23 @@
 Hi there, I'm Burak 👋
 
-🎓 Law grad turned backend developer exploring the realms of technology.
+🎓 Full Stack Developer specialized in Java and Javascript
 
-👨‍💻 Currently diving deep into backend development, with experience in:
-🐘 PostgreSQL
-🛠️ Hibernate
-🌱 Spring
-📦 Maven
-🐙 GitHub
-🐳 Docker
-🕹️ Game development
-🔭 I'm passionate about crafting clean code and solving complex problems.
+☕ Java
+  🐙 Git, GitHub
+  🛏️ Hibernate
+  🗺️ Object-Relational Mapping
+  🌱 Spring Framework
+  🔄 RESTful API
+  🛠️ Microservices
+  🧪 Testing, CI/CD
+  🐘 PostgreSQL, MongoDB
+  🐳 Docker, Kubernetes
+  🐘 Apache Kafka
+  ☁️ AWS
+🚀 JavaScript
+  🌐 HTML, CSS, Bootstrap
+  ⚛️ React
+  🅰️ Angular
+  🖖 Vue.js
 
 🌟 Check out my repositories to explore my journey into the world of tech and development!

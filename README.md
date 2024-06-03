@@ -16,7 +16,8 @@ Hi there, I'm Burak 👋
   ☁️ AWS  
 🚀 JavaScript  
   🌐 HTML, CSS, Bootstrap  
-  ⚛️ React  
+  ⚛️ React.js  
+  🛠️ Next.Js  
   🅰️ Angular  
   🖖 Vue.js  
 
